@@ -24,8 +24,8 @@ To get started with the backend development environment, follow these steps:
 1. Clone this repository to your local machine.
 2. Install dependencies using `npm install`.
 3. Set up environment variables for database connection and other configurations.
-4. Run the server with `npm start`.
-5. Access the API endpoints at `http://localhost:8000` in your client application.
+4. Run the server with `npm run nodemon`.
+5. Access the API endpoints at `http://localhost:4000` in your client application.
 
 ## Contributing
 
